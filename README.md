@@ -1,6 +1,6 @@
 # stunnel Docker image
 
-这个镜像内置 stunnel、OpenSSL 和系统根证书，可作为客户端或服务端。运行方式完全由挂载的 `stunnel.conf` 决定。
+镜像内置 stunnel、OpenSSL 和系统根证书，可作为客户端或服务端。运行方式由 `stunnel.conf` 决定。
 
 ## 构建
 
